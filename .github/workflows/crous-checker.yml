@@ -2,8 +2,8 @@ name: CROUS Checker
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:      # Allows manual trigger
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   check_crous:
@@ -12,9 +12,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # Only needed if you push changes later
+          persist-credentials: false
 
-      - name: Install Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.x"
@@ -22,9 +22,12 @@ jobs:
       - name: Install Chromium
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+          # Explanation:
+          #   chromium-browser: The actual browser
+          #   chromium-chromedriver: Matches the Chromium version installed
 
-      - name: Install Dependencies
+      - name: Install Python Dependencies
         run: |
           pip install selenium webdriver-manager
 
@@ -36,12 +39,13 @@ jobs:
         run: python src/main.py
 
       - name: Commit and push changes if detected
+        # only needed if you're committing last_result.txt changes
         if: always()
         env:
-          GH_PAT: ${{ secrets.GH_PAT }}  # Only if you want to push changes
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add src/last_result.txt
-          git commit -m "Update last_result.txt with latest residence data" || echo "No changes to commit"
+          git commit -m "Update last_result.txt" || echo "No changes to commit"
           git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git master

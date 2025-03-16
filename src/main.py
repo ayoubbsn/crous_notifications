@@ -2,9 +2,40 @@ import os
 import smtplib
 import time
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
-from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.common.by import By
+
+def fetch_residences():
+    # ChromeOptions
+    options = webdriver.ChromeOptions()
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
+    
+    # Use webdriver_manager to install matching ChromeDriver
+    driver = webdriver.Chrome(
+        service=Service(ChromeDriverManager().install()),
+        options=options
+    )
+
+    url = "https://trouverunlogement.lescrous.fr/tools/37/search?bounds=1.4462445_49.241431_3.5592208_48.1201456"
+    driver.get(url)
+
+    time.sleep(5)
+
+    try:
+        elements = driver.find_elements(By.CLASS_NAME, "SearchResults-container")
+        driver.quit()
+
+        if elements:
+            return elements[0].text.strip()
+        else:
+            return "No available residences"
+    except Exception as e:
+        print(f"❌ Error extracting data: {e}")
+        driver.quit()
+        return None
 
 # Email Configuration
 EMAIL_SENDER = os.getenv("EMAIL_SENDER")
@@ -27,35 +58,6 @@ def send_email(subject, message):
     except Exception as e:
         print(f"❌ Error sending email: {e}")
 
-def fetch_residences():
-    # Use Chrome in headless mode
-    options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920x1080")
-
-    driver = webdriver.Chrome(
-        service=ChromeService(ChromeDriverManager().install()),
-        options=options
-    )
-
-    url = "https://trouverunlogement.lescrous.fr/tools/37/search?bounds=1.4462445_49.241431_3.5592208_48.1201456"
-    driver.get(url)
-
-    time.sleep(5)  # Wait for the page to load
-
-    try:
-        residence_elements = driver.find_elements(By.CLASS_NAME, "SearchResults-container")
-        driver.quit()
-
-        if residence_elements:
-            return residence_elements[0].text.strip()
-        else:
-            return "No available residences"
-    except Exception as e:
-        print(f"❌ Error extracting data: {e}")
-        driver.quit()
-        return None
 
 def check_for_changes():
     current_data = fetch_residences()
