@@ -2,82 +2,43 @@ import os
 import smtplib
 import time
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+# Email configuration and other functions here…
+# (send_email, check_for_changes, etc.)
 
 def fetch_residences():
-    # ChromeOptions
     options = webdriver.ChromeOptions()
     options.add_argument("--headless")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
-    
-    # Use webdriver_manager to install matching ChromeDriver
+    # Specify the binary location for Chromium
+    options.binary_location = "/usr/bin/chromium-browser"
+
+    # Use the system chromedriver installed via apt-get
     driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
+        service=ChromeService("/usr/bin/chromedriver"),
         options=options
     )
 
     url = "https://trouverunlogement.lescrous.fr/tools/37/search?bounds=1.4462445_49.241431_3.5592208_48.1201456"
     driver.get(url)
 
-    time.sleep(5)
-
     try:
-        elements = driver.find_elements(By.CLASS_NAME, "SearchResults-container")
+        # Wait until the container element is present
+        wait = WebDriverWait(driver, 10)
+        container = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "SearchResults-container")))
+        text = container.text.strip()
         driver.quit()
-
-        if elements:
-            return elements[0].text.strip()
-        else:
-            return "No available residences"
+        return text if text else "No available residences"
     except Exception as e:
         print(f"❌ Error extracting data: {e}")
         driver.quit()
         return None
 
-# Email Configuration
-EMAIL_SENDER = os.getenv("EMAIL_SENDER")
-EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
-EMAIL_RECEIVER = os.getenv("EMAIL_RECEIVER")
-SMTP_SERVER = "smtp.gmail.com"
-SMTP_PORT = 587
-
-LAST_RESULT_FILE = "src/last_result.txt"
-
-def send_email(subject, message):
-    try:
-        server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
-        server.starttls()
-        server.login(EMAIL_SENDER, EMAIL_PASSWORD)
-        email_body = f"Subject: {subject}\n\n{message}"
-        server.sendmail(EMAIL_SENDER, EMAIL_RECEIVER, email_body)
-        server.quit()
-        print("📧 Email sent successfully!")
-    except Exception as e:
-        print(f"❌ Error sending email: {e}")
-
-
-def check_for_changes():
-    current_data = fetch_residences()
-    if current_data is None:
-        return  # Error fetching data, skip checking
-
-    if os.path.exists(LAST_RESULT_FILE):
-        with open(LAST_RESULT_FILE, "r", encoding="utf-8") as file:
-            last_data = file.read().strip()
-    else:
-        last_data = ""
-
-    if current_data != last_data:
-        print("🔔 Change detected! Sending email...")
-        send_email("🏠 CROUS Residence Update!", f"New available residences:\n\n{current_data}")
-
-        with open(LAST_RESULT_FILE, "w", encoding="utf-8") as file:
-            file.write(current_data)
-    else:
-        print("✅ No changes detected.")
-
 if __name__ == "__main__":
+    # Call check_for_changes() or your main routine here.
     check_for_changes()

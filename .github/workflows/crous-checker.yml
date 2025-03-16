@@ -19,17 +19,14 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install Chromium
+      - name: Install Chromium and Chromedriver
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-browser chromium-chromedriver
-          # Explanation:
-          #   chromium-browser: The actual browser
-          #   chromium-chromedriver: Matches the Chromium version installed
 
       - name: Install Python Dependencies
         run: |
-          pip install selenium webdriver-manager
+          pip install selenium webdriver-manager  # webdriver-manager can be omitted if not used
 
       - name: Run the script
         env:
@@ -39,7 +36,6 @@ jobs:
         run: python src/main.py
 
       - name: Commit and push changes if detected
-        # only needed if you're committing last_result.txt changes
         if: always()
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
