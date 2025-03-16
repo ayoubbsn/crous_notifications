@@ -19,11 +19,19 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install selenium webdriver-manager smtplib
+          pip install selenium webdriver-manager
 
       - name: Run the script
         env:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECEIVER: ${{ secrets.EMAIL_RECEIVER }}
-        run: python src/main.py  
+        run: python src/main.py
+
+      - name: Commit and push changes if detected
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add src/last_result.txt
+          git commit -m "Update last_result.txt with latest residence data" || echo "No changes to commit"
+          git push

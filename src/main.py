@@ -1,6 +1,6 @@
+import os
 import smtplib
 import time
-import os
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service as EdgeService
 from selenium.webdriver.common.by import By
@@ -12,6 +12,9 @@ EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 EMAIL_RECEIVER = os.getenv("EMAIL_RECEIVER")
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
+
+# File path for storing previous results
+LAST_RESULT_FILE = "src/last_result.txt"
 
 # Function to send an email
 def send_email(subject, message):
@@ -56,8 +59,6 @@ def fetch_residences():
 
 # Function to check for changes
 def check_for_changes():
-    last_result_file = "last_result.txt"
-
     # Fetch current data
     current_data = fetch_residences()
 
@@ -65,8 +66,8 @@ def check_for_changes():
         return  # Error fetching data, skip checking
 
     # Read previous result
-    if os.path.exists(last_result_file):
-        with open(last_result_file, "r", encoding="utf-8") as file:
+    if os.path.exists(LAST_RESULT_FILE):
+        with open(LAST_RESULT_FILE, "r", encoding="utf-8") as file:
             last_data = file.read().strip()
     else:
         last_data = ""
@@ -77,7 +78,7 @@ def check_for_changes():
         send_email("🏠 CROUS Residence Update!", f"New available residences:\n\n{current_data}")
 
         # Update the stored result
-        with open(last_result_file, "w", encoding="utf-8") as file:
+        with open(LAST_RESULT_FILE, "w", encoding="utf-8") as file:
             file.write(current_data)
     else:
         print("✅ No changes detected.")
