@@ -2,6 +2,7 @@ import os
 import smtplib
 import time
 from email.mime.text import MIMEText
+from email.header import Header
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
@@ -23,7 +24,8 @@ def send_email(subject, message):
     try:
         # Create a MIMEText object with UTF-8 encoding.
         msg = MIMEText(message, _charset="utf-8")
-        msg['Subject'] = subject
+        # Encode the subject properly using Header:
+        msg['Subject'] = Header(subject, 'utf-8')
         msg['From'] = EMAIL_SENDER
         msg['To'] = EMAIL_RECEIVER
 
@@ -55,7 +57,7 @@ def fetch_residences():
     driver.get(url)
 
     try:
-        # Wait up to 10 seconds for the target element to load.
+        # Use WebDriverWait to wait for the SearchResults-container element.
         wait = WebDriverWait(driver, 10)
         container = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "SearchResults-container")))
         container_text = container.text.strip()
@@ -71,13 +73,12 @@ def fetch_residences():
         return None
 
 def check_for_changes():
-    # Fetch current data.
+    # Fetch current residence data.
     current_data = fetch_residences()
-
     if current_data is None:
         return  # Error fetching data, skip checking
 
-    # Read previous result.
+    # Read previous result from file.
     if os.path.exists(LAST_RESULT_FILE):
         with open(LAST_RESULT_FILE, "r", encoding="utf-8") as file:
             last_data = file.read().strip()
