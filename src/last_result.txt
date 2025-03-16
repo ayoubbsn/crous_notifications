@@ -1,6 +1,0 @@
-Afficher sur une carte
-Première page
-Page précédente
-OK
-Page suivante
-Dernière page
