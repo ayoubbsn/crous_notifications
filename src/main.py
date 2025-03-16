@@ -1,15 +1,15 @@
 import smtplib
 import time
+import os
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service as EdgeService
 from selenium.webdriver.common.by import By
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
-import os
 
-# Email Configuration
-EMAIL_SENDER = "your_email@gmail.com"
-EMAIL_PASSWORD = "your_app_password"
-EMAIL_RECEIVER = "your_email@gmail.com"
+# Email Configuration (from GitHub Secrets)
+EMAIL_SENDER = os.getenv("EMAIL_SENDER")
+EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
+EMAIL_RECEIVER = os.getenv("EMAIL_RECEIVER")
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
@@ -29,7 +29,7 @@ def send_email(subject, message):
 # Function to get residence listings
 def fetch_residences():
     options = webdriver.EdgeOptions()
-    options.add_argument("--headless")  
+    options.add_argument("--headless")
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920x1080")
 
@@ -82,8 +82,5 @@ def check_for_changes():
     else:
         print("✅ No changes detected.")
 
-# Run the script continuously every hour
-while True:
-    check_for_changes()
-    print("⏳ Waiting for the next check...")
-    time.sleep(3600)  # Wait for 1 hour
+# Run the check
+check_for_changes()
