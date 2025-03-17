@@ -1,6 +1,6 @@
 # CROUS Notifications
 
-CROUS Notifications is an automated tool that checks for available residences in Île de France on the LesCrous website and sends email notifications when a change is detected. This project leverages Selenium with headless Chrome and GitHub Actions to run the script every 15 minutes.
+CROUS Notifications is an automated tool that checks for available residences in Île de France on the LesCrous website and sends email notifications when a change is detected. This project leverages Selenium with headless Chrome and GitHub Actions to run the script every 10 minutes.
 
 ## Features
 
