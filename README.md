@@ -45,12 +45,12 @@ Change the URL as needed to target different regions or search parameters.
 
 ## GitHub Actions Workflow
 
-The workflow is defined in `.github/workflows/crous-checker.yml` and is set to run every 15 minutes using the following cron schedule:
+The workflow is defined in `.github/workflows/crous-checker.yml` and is set to run every 10 minutes using the following cron schedule:
 
 ```yaml
 on:
   schedule:
-    - cron: "*/15 * * * *"  # Runs every 15 minutes
+    - cron: "*/10 * * * *"  # Runs every 15 minutes
   workflow_dispatch:        # Allows manual triggering
 ```
 
@@ -96,7 +96,7 @@ name: CROUS Checker
 
 on:
   schedule:
-    - cron: "*/15 * * * *"  # Runs every 15 minutes
+    - cron: "*/10 * * * *"  # Runs every 15 minutes
   workflow_dispatch:
 
 jobs:
