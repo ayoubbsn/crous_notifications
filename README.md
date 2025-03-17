@@ -7,7 +7,7 @@ CROUS Notifications is an automated tool that checks for available residences in
 - **Automated Search:** Checks for residence listings in Île de France.
 - **Email Alerts:** Sends notifications when new listings appear.
 - **Configurable:** Easily update the search URL and email addresses via GitHub Secrets.
-- **CI/CD Integration:** Runs automatically every 15 minutes using GitHub Actions.
+- **CI/CD Integration:** Runs automatically every 10 minutes using GitHub Actions.
 
 ## Repository Structure
 
