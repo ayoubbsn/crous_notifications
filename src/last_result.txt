@@ -1,17 +1,4 @@
 Afficher sur une carte
-174 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-57,1 m²
-Colocation
-4 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 753 À 764 €
-Campus
-23 avenue de la Convention 93000 BOBIGNY
-de 35,1 à 36,05 m²
-Individuel
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 561 €
 Combs La Ville - Ilot du Bel Air
 20 - 28 rue des Brandons 77380 Combs La Ville
@@ -47,33 +34,12 @@ Ulis
 Colocation
 3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-479 €
-Torcy
-20, 22, 24 Promenade du Belvedere 77200 TORCY
-de 24,19 à 27,82 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
-DE 306 À 334 €
-Résidence Bagneux
-2 rue Abraham Lincoln - 92220 Bagneux -
-de 39,4 à 39,9 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Balcon
 DE 385 À 399 €
 Cachan
 72 rue Camille Desmoulins 94230 Cachan
 de 13 à 14,75 m²
 Colocation
 2 lits simples
-WC, Douche, Evier + plaque, Frigo
-453 €
-Lognes
-26-28-30 Rue Bouquet 77185 LOGNES
-de 18 à 24,83 m²
-Individuel
-1 lit simple
 WC, Douche, Evier + plaque, Frigo
 378 €
 Epinay Sur Seine
@@ -82,13 +48,6 @@ de 15,15 à 17,18 m²
 Colocation
 2 lits simples
 WC, Douche, Evier + plaque, Frigo
-451 €
-IRD
-17 Rue Lucien Chapelain 93140 BONDY
-18 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 383 €
 Résidence Villebon Charpak
 Bâtiment 470 Aile D Domaine de l’université de Paris Saclay Rue du château, Bâtiment 470, Aile D 91400 Orsay
@@ -96,20 +55,6 @@ de 18,42 à 19,51 m²
 Individuel
 1 lit simple
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 436 À 658 €
-Campus
-23 avenue de la Convention 93000 BOBIGNY
-de 22,03 à 30,03 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
-292 €
-Champs Sur Marne - Montesquieu
-7 et 7bis Boulevard Copernic 77420 CHAMPS SUR MARNE
-17,5 m²
-Colocation
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 278 €
 Cachan
 72 rue Camille Desmoulins 94230 Cachan
@@ -117,6 +62,34 @@ Cachan
 Individuel
 1 lit simple
 Frigo
+292 €
+Champs Sur Marne - Montesquieu
+7 et 7bis Boulevard Copernic 77420 CHAMPS SUR MARNE
+17,5 m²
+Colocation
+2 lits simples
+WC, Douche, Evier + plaque, Frigo
+479 €
+Torcy
+20, 22, 24 Promenade du Belvedere 77200 TORCY
+de 24,19 à 27,82 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+174 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+57,1 m²
+Colocation
+4 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+453 €
+Lognes
+26-28-30 Rue Bouquet 77185 LOGNES
+de 18 à 24,83 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
