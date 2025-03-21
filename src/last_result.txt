@@ -34,13 +34,6 @@ Ulis
 Colocation
 3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 385 À 399 €
-Cachan
-72 rue Camille Desmoulins 94230 Cachan
-de 13 à 14,75 m²
-Colocation
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 378 €
 Epinay Sur Seine
 6, Avenue de la Republique 93800 EPINAY SUR SEINE
@@ -55,20 +48,6 @@ de 18,42 à 19,51 m²
 Individuel
 1 lit simple
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-278 €
-Cachan
-72 rue Camille Desmoulins 94230 Cachan
-9 m²
-Individuel
-1 lit simple
-Frigo
-292 €
-Champs Sur Marne - Montesquieu
-7 et 7bis Boulevard Copernic 77420 CHAMPS SUR MARNE
-17,5 m²
-Colocation
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 479 €
 Torcy
 20, 22, 24 Promenade du Belvedere 77200 TORCY
@@ -83,12 +62,26 @@ Ulis
 Colocation
 4 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+278 €
+Cachan
+72 rue Camille Desmoulins 94230 Cachan
+9 m²
+Individuel
+1 lit simple
+Frigo
 453 €
 Lognes
 26-28-30 Rue Bouquet 77185 LOGNES
 de 18 à 24,83 m²
 Individuel
 1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 385 À 399 €
+Cachan
+72 rue Camille Desmoulins 94230 Cachan
+de 13 à 14,75 m²
+Colocation
+2 lits simples
 WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
