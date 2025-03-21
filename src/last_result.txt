@@ -9,13 +9,6 @@ Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 174 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
-0 m²
-Colocation
-3 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-174 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
 57,1 m²
 Colocation
 4 lits simples
@@ -33,13 +26,6 @@ Campus
 de 35,1 à 36,05 m²
 Individuel
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-292 €
-Champs Sur Marne - Montesquieu
-7 et 7bis Boulevard Copernic 77420 CHAMPS SUR MARNE
-17,5 m²
-Colocation
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 561 €
 Combs La Ville - Ilot du Bel Air
 20 - 28 rue des Brandons 77380 Combs La Ville
@@ -68,31 +54,10 @@ de 15,15 à 17,18 m²
 Colocation
 2 lits simples
 WC, Douche, Evier + plaque, Frigo
-DE 369 À 486 €
-Frida Kahlo
-79 Rue Edouard Renard 93000 BOBIGNY
-de 16,3 à 19,5 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 451 €
 IRD
 17 Rue Lucien Chapelain 93140 BONDY
 18 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
-174 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-0 m²
-Colocation
-5 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-479 €
-Torcy
-20, 22, 24 Promenade du Belvedere 77200 TORCY
-de 24,19 à 27,82 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
@@ -103,6 +68,13 @@ Torcy
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
+174 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+0 m²
+Colocation
+5 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 278 €
 Cachan
 72 rue Camille Desmoulins 94230 Cachan
@@ -110,20 +82,6 @@ Cachan
 Individuel
 1 lit simple
 Frigo
-DE 392 À 510 €
-Campus
-23 avenue de la Convention 93000 BOBIGNY
-de 18,97 à 20,81 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
-429 €
-Epinay Sur Seine
-6, Avenue de la Republique 93800 EPINAY SUR SEINE
-de 18 à 20,9 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 DE 436 À 658 €
 Campus
 23 avenue de la Convention 93000 BOBIGNY
@@ -145,13 +103,34 @@ de 18 à 24,83 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
-386 €
-Stains
-38/42 rue du Chemin St Leger 93240 Stains
-de 16 à 31,88 m²
+DE 369 À 486 €
+Frida Kahlo
+79 Rue Edouard Renard 93000 BOBIGNY
+de 16,3 à 19,5 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
+429 €
+Epinay Sur Seine
+6, Avenue de la Republique 93800 EPINAY SUR SEINE
+de 18 à 20,9 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 296 À 337 €
+Cergy-Linandes extension
+1, place des Linandes Mauves 95000 Cergy
+de 32,08 à 38,88 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
+174 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+0 m²
+Colocation
+3 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 DE 306 À 334 €
 Résidence Bagneux
 2 rue Abraham Lincoln - 92220 Bagneux -
@@ -159,6 +138,13 @@ de 39,4 à 39,9 m²
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Balcon
+479 €
+Torcy
+20, 22, 24 Promenade du Belvedere 77200 TORCY
+de 24,19 à 27,82 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
 234 €
 Saint Denis - Hermitage
 Place du 8 Mai 1945 93200 Saint-Denis
@@ -166,6 +152,20 @@ Place du 8 Mai 1945 93200 Saint-Denis
 Individuel
 1 lit simple
 Frigo
+292 €
+Champs Sur Marne - Montesquieu
+7 et 7bis Boulevard Copernic 77420 CHAMPS SUR MARNE
+17,5 m²
+Colocation
+2 lits simples
+WC, Douche, Evier + plaque, Frigo
+DE 392 À 510 €
+Campus
+23 avenue de la Convention 93000 BOBIGNY
+de 18,97 à 20,81 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
