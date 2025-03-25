@@ -1,11 +1,4 @@
 Afficher sur une carte
-DE 319 À 399 €
-Orsay-Bures
-Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
-de 12,38 à 18,1 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo, Micro-onde
 174 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -48,6 +41,13 @@ de 18,13 à 22,7 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
+DE 319 À 399 €
+Orsay-Bures
+Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
+de 12,38 à 18,1 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo, Micro-onde
 Première page
 Page précédente
 OK
