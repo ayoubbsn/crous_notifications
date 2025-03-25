@@ -27,20 +27,6 @@ Ulis
 Colocation
 3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 319 À 399 €
-Orsay-Bures
-Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
-de 12,38 à 18,1 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 328 À 562 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-de 12,94 à 26,78 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 DE 287 À 322 €
 Cergy-Les Chenes
 7 rue des chênes d'or 95014 CERGY PONTOISE CEDEX
@@ -52,6 +38,20 @@ Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 Orsay-L Ile
 Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
 de 18,13 à 22,7 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 319 À 399 €
+Orsay-Bures
+Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
+de 12,38 à 18,1 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo, Micro-onde
+DE 328 À 562 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
