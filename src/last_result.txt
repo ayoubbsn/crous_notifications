@@ -13,13 +13,6 @@ Ulis
 Colocation
 3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 328 À 562 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-de 12,94 à 26,78 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 DE 372 À 451 €
 NICOLE REINE LEPAUTE
 3/11 Rue Nicole Reine Lepaute 75013 PARIS
@@ -45,6 +38,20 @@ WC, Douche, Evier + plaque, Frigo, Micro-onde
 Orsay-L Ile
 Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
 de 18,13 à 22,7 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 346 À 709 €
+FRANCIS DE CROISSET
+8, rue Francis de Croisset 75018 PARIS
+de 44 à 46 m²
+Individuel, Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Duplex
+DE 328 À 562 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
