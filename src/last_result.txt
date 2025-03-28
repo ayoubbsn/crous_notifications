@@ -2,6 +2,13 @@ Afficher sur une carte
 174 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
+57,1 m²
+Colocation
+4 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+174 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
 0 m²
 Colocation
 3 lits simples
@@ -9,17 +16,10 @@ Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 174 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
-57,1 m²
+0 m²
 Colocation
-4 lits simples
+5 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-384 €
-Orsay-L Ile
-Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
-de 18,13 à 22,7 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 DE 328 À 562 €
 Orsay-Fleming
 21, rue André Maginot 91400 ORSAY
@@ -27,6 +27,20 @@ de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
+384 €
+Orsay-L Ile
+Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
+de 18,13 à 22,7 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 287 À 322 €
+Cergy-Les Chenes
+7 rue des chênes d'or 95014 CERGY PONTOISE CEDEX
+de 31,62 à 40,88 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
