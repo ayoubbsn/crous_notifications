@@ -1,11 +1,4 @@
 Afficher sur une carte
-318 €
-MERLEAU PONTY
-8, place François Rabelais 28000 CHARTRES
-de 18 à 19 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 278 €
 Orsay-Fleming
 21, rue André Maginot 91400 ORSAY
@@ -13,13 +6,6 @@ Orsay-Fleming
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-DE 401 À 418 €
-POISSONNIERS
-14/24 avenue de la Porte des Poissonniers - 75018 Paris
-de 19,5 à 21 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 174 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -27,10 +13,10 @@ Ulis
 Colocation
 4 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 328 À 562 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-de 12,94 à 26,78 m²
+318 €
+MERLEAU PONTY
+8, place François Rabelais 28000 CHARTRES
+de 18 à 19 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
@@ -38,6 +24,20 @@ DE 410 À 561 €
 MAZET
 5B, rue André Mazet 75006 PARIS
 de 17 à 26 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 401 À 418 €
+POISSONNIERS
+14/24 avenue de la Porte des Poissonniers - 75018 Paris
+de 19,5 à 21 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 328 À 562 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
