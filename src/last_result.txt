@@ -16,13 +16,6 @@ WC, Douche, Evier + plaque, Frigo
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
-0 m²
-Colocation
-3 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
 57,1 m²
 Colocation
 4 lits simples
@@ -33,6 +26,13 @@ Ulis
 0 m²
 Colocation
 5 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+0 m²
+Colocation
+3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 Première page
 Page précédente
