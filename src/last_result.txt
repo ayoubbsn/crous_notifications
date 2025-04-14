@@ -1,11 +1,4 @@
 Afficher sur une carte
-DE 246,98 À 286,22 €
-Cergy-Les Chateaux
-QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
-de 24,85 à 38,63 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 DE 428 À 523 €
 CHOISY
 120 avenue de Choisy 75013 Paris
@@ -13,6 +6,20 @@ de 20 à 26 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
+DE 246,98 À 286,22 €
+Cergy-Les Chateaux
+QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
+de 24,85 à 38,63 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
+283,05 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+28,88 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -34,20 +41,6 @@ Ulis
 Colocation
 5 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-283,05 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-28,88 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-DE 328 À 575 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-de 12,94 à 26,78 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
