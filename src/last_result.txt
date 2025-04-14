@@ -1,18 +1,4 @@
 Afficher sur une carte
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-0 m²
-Colocation
-3 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 428 À 523 €
-CHOISY
-120 avenue de Choisy 75013 Paris
-de 20 à 26 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 DE 246,98 À 286,22 €
 Cergy-Les Chateaux
 QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
@@ -25,22 +11,15 @@ Ulis
 15, rue le Bosquet 91940 les ULIS
 0 m²
 Colocation
-5 lits simples
+3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
-57,1 m²
+0 m²
 Colocation
-4 lits simples
+5 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-586 €
-POULET
-9, rue de poulet - 75018 Paris
-30 m²
-Individuel
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 285,15 €
 Evry- Aunettes
 1 Impasse de la Predecelle 91000 EVRY
@@ -48,13 +27,20 @@ de 31,17 à 31,73 m²
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 315,36 À 344,27 €
-Résidence Bagneux
-2 rue Abraham Lincoln - 92220 Bagneux -
-de 39,4 à 39,9 m²
+DE 428 À 523 €
+CHOISY
+120 avenue de Choisy 75013 Paris
+de 20 à 26 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+DE 292,38 À 328,52 €
+Cergy-Les Chenes
+7 rue des chênes d'or 95014 CERGY PONTOISE CEDEX
+de 31,62 à 40,88 m²
 Colocation
 2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Balcon
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 DE 395,49 À 507,39 €
 Orsay-Bures
 Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
@@ -62,6 +48,20 @@ de 12,38 à 18,1 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo, Micro-onde
+395,49 €
+Orsay-L Ile
+Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
+de 18,13 à 22,7 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+57,1 m²
+Colocation
+4 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 Première page
 Page précédente
 OK
