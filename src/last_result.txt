@@ -9,13 +9,6 @@ Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
-57,1 m²
-Colocation
-4 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
 0 m²
 Colocation
 5 lits simples
@@ -47,13 +40,6 @@ Orsay-Fleming
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-395,49 €
-Orsay-L Ile
-Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
-de 18,13 à 22,7 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 DE 395,49 À 507,39 €
 Orsay-Bures
 Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
@@ -61,13 +47,27 @@ de 12,38 à 18,1 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 321 À 368 €
-LA GARENNE
-7, Place de la Garenne 75014 PARIS
-de 18 à 22 m²
+395,49 €
+Orsay-L Ile
+Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
+de 18,13 à 22,7 m²
 Individuel
 1 lit simple
-WC, Douche, Frigo
+WC, Douche, Evier + plaque, Frigo
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+57,1 m²
+Colocation
+4 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+DE 401 À 525 €
+FRERES GONCOURT
+117 bis rue de ménilmontant 75020 paris
+de 18 à 28 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
