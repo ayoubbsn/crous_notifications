@@ -1,11 +1,11 @@
 Afficher sur une carte
-DE 246,98 À 286,22 €
-Cergy-Les Chateaux
-QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
-de 24,85 à 38,63 m²
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+0 m²
 Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
+5 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 DE 328 À 575 €
 Orsay-Fleming
 21, rue André Maginot 91400 ORSAY
@@ -13,26 +13,26 @@ de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
-395,49 €
-Orsay-L Ile
-Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
-de 18,13 à 22,7 m²
+DE 395,49 À 507,39 €
+Orsay-Bures
+Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
+de 12,38 à 18,1 m²
 Individuel
 1 lit simple
-WC, Douche, Evier + plaque, Frigo
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-57,1 m²
-Colocation
-4 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+WC, Douche, Evier + plaque, Frigo, Micro-onde
 507,39 €
 Orsay-L Ile
 Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
 de 30,26 à 35,1 m²
 Individuel
 WC, Douche, Evier + plaque, Frigo, Duplex
+DE 246,98 À 286,22 €
+Cergy-Les Chateaux
+QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
+de 24,85 à 38,63 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -43,17 +43,17 @@ Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
-0 m²
+57,1 m²
 Colocation
-5 lits simples
+4 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 395,49 À 507,39 €
-Orsay-Bures
-Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
-de 12,38 à 18,1 m²
+395,49 €
+Orsay-L Ile
+Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
+de 18,13 à 22,7 m²
 Individuel
 1 lit simple
-WC, Douche, Evier + plaque, Frigo, Micro-onde
+WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
