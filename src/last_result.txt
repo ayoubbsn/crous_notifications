@@ -1,18 +1,4 @@
 Afficher sur une carte
-DE 246,98 À 286,22 €
-Cergy-Les Chateaux
-QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
-de 24,85 à 38,63 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-0 m²
-Colocation
-3 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -27,6 +13,13 @@ Ulis
 Colocation
 5 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+DE 246,98 À 286,22 €
+Cergy-Les Chateaux
+QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
+de 24,85 à 38,63 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 586 €
 POULET
 9, rue de poulet - 75018 Paris
@@ -47,6 +40,13 @@ Evry- Aunettes
 de 31,17 à 31,73 m²
 Colocation
 2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+0 m²
+Colocation
+3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 DE 395,49 À 507,39 €
 Orsay-Bures
