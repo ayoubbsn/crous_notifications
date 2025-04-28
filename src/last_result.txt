@@ -34,13 +34,6 @@ Ulis
 Colocation
 5 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 328 À 575 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-de 12,94 à 26,78 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 345,04 €
 Cergy-Le Square
 9, square de l'échiquier 95800 Cergy st Christophe
@@ -48,6 +41,13 @@ Cergy-Le Square
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
+DE 328 À 575 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+de 12,94 à 26,78 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo
 DE 292,38 À 328,52 €
 Cergy-Les Chenes
 7 rue des chênes d'or 95014 CERGY PONTOISE CEDEX
