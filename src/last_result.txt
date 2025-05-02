@@ -26,13 +26,6 @@ Ulis
 Colocation
 4 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-283,05 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-28,88 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -40,6 +33,13 @@ Ulis
 Colocation
 5 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+283,05 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+28,88 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 258,29 €
 Evry-Flora TRISTAN
 1 rue Jules Vales 91000 EVRY
