@@ -19,13 +19,6 @@ Ulis
 Colocation
 3 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-57,1 m²
-Colocation
-4 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 258,29 €
 Evry-Flora TRISTAN
 1 rue Jules Vales 91000 EVRY
@@ -33,6 +26,13 @@ de 8,14 à 11,4 m²
 Individuel
 1 lit simple
 WC, Douche, Frigo
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+57,1 m²
+Colocation
+4 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 DE 395,49 À 507,39 €
 Orsay-Bures
 Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
@@ -47,13 +47,6 @@ Orsay-Fleming
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-DE 406 À 452 €
-MARTIN LUTHER KING
-20/26 rue Bernard Buffet - 75017 Paris
-de 19 à 23 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
