@@ -1,32 +1,4 @@
 Afficher sur une carte
-180,05 €
-Ulis
-15, rue le Bosquet 91940 les ULIS
-57,1 m²
-Colocation
-4 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-258,29 €
-Evry-Flora TRISTAN
-1 rue Jules Vales 91000 EVRY
-de 8,14 à 11,4 m²
-Individuel
-1 lit simple
-WC, Douche, Frigo
-DE 395,49 À 507,39 €
-Orsay-Bures
-Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
-de 12,38 à 18,1 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo, Micro-onde
-285,15 €
-Evry- Aunettes
-1 Impasse de la Predecelle 91000 EVRY
-de 31,17 à 31,73 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
 DE 246,98 À 286,22 €
 Cergy-Les Chateaux
 QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
@@ -47,6 +19,34 @@ MOUZAIA
 de 14 à 33,1 m²
 Individuel
 1 lit simple
+180,05 €
+Ulis
+15, rue le Bosquet 91940 les ULIS
+57,1 m²
+Colocation
+4 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+258,29 €
+Evry-Flora TRISTAN
+1 rue Jules Vales 91000 EVRY
+de 8,14 à 11,4 m²
+Individuel
+1 lit simple
+WC, Douche, Frigo
+285,15 €
+Evry- Aunettes
+1 Impasse de la Predecelle 91000 EVRY
+de 31,17 à 31,73 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
+DE 395,49 À 507,39 €
+Orsay-Bures
+Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
+de 12,38 à 18,1 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo, Micro-onde
 Première page
 Page précédente
 OK
