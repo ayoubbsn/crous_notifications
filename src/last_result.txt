@@ -6,13 +6,6 @@ Ulis
 Colocation
 4 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 292,38 À 328,52 €
-Cergy-Les Chenes
-7 rue des chênes d'or 95014 CERGY PONTOISE CEDEX
-de 31,62 à 40,88 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
 DE 301,67 À 344 €
 Cergy-Linandes extension
 1, place des Linandes Mauves 95000 Cergy
@@ -34,31 +27,10 @@ de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
-DE 395,49 À 507,39 €
-Orsay-Bures
-Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
-de 12,38 à 18,1 m²
-Individuel
-1 lit simple
-WC, Douche, Evier + plaque, Frigo, Micro-onde
-DE 432 À 522 €
-SAINT-JACQUES
-26, rue du Faubourg Saint-Jacques 75014 PARIS
-de 11 à 18 m²
-Individuel
-1 lit simple
-Evier + plaque, Frigo
 283,05 €
 Orsay-Fleming
 21, rue André Maginot 91400 ORSAY
 28,88 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-DE 246,98 À 286,22 €
-Cergy-Les Chateaux
-QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
-de 24,85 à 38,63 m²
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
@@ -69,13 +41,6 @@ de 31,17 à 31,73 m²
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Micro-onde
-614 €
-FRANCIS DE CROISSET
-8, rue Francis de Croisset 75018 PARIS
-32 m²
-Individuel
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 180,05 €
 Ulis
 15, rue le Bosquet 91940 les ULIS
@@ -90,6 +55,34 @@ de 8,14 à 11,4 m²
 Individuel
 1 lit simple
 WC, Douche, Frigo
+DE 432 À 522 €
+SAINT-JACQUES
+26, rue du Faubourg Saint-Jacques 75014 PARIS
+de 11 à 18 m²
+Individuel
+1 lit simple
+Evier + plaque, Frigo
+DE 246,98 À 286,22 €
+Cergy-Les Chateaux
+QUARTIER ST SYLVERE 95014 CERGY PONTOISE CEDEX
+de 24,85 à 38,63 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
+DE 395,49 À 507,39 €
+Orsay-Bures
+Les Rives de l'Yvette Bât 231-232, voie de la faculté / Bât 233, rue Pierre de Coubertin 91440 - BURES SUR YVETTE
+de 12,38 à 18,1 m²
+Individuel
+1 lit simple
+WC, Douche, Evier + plaque, Frigo, Micro-onde
+614 €
+FRANCIS DE CROISSET
+8, rue Francis de Croisset 75018 PARIS
+32 m²
+Individuel
+2 lits simples
+WC, Douche, Evier + plaque, Frigo
 Première page
 Page précédente
 OK
