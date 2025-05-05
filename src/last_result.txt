@@ -6,20 +6,6 @@ de 24,85 à 38,63 m²
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-283,05 €
-Orsay-Fleming
-21, rue André Maginot 91400 ORSAY
-28,88 m²
-Colocation
-2 lits simples
-Pièce à vivre, WC, Douche, Evier + plaque, Frigo
-614 €
-FRANCIS DE CROISSET
-8, rue Francis de Croisset 75018 PARIS
-32 m²
-Individuel
-2 lits simples
-WC, Douche, Evier + plaque, Frigo
 395,49 €
 Orsay-L Ile
 Bâtiment 227 14, rue du Docteur Collé 91440 Bures sur Yvette
@@ -55,13 +41,20 @@ de 12,94 à 26,78 m²
 Individuel
 1 lit simple
 WC, Douche, Evier + plaque, Frigo
-258,29 €
-Evry-Flora TRISTAN
-1 rue Jules Vales 91000 EVRY
-de 8,14 à 11,4 m²
+283,05 €
+Orsay-Fleming
+21, rue André Maginot 91400 ORSAY
+28,88 m²
+Colocation
+2 lits simples
+Pièce à vivre, WC, Douche, Evier + plaque, Frigo
+614 €
+FRANCIS DE CROISSET
+8, rue Francis de Croisset 75018 PARIS
+32 m²
 Individuel
-1 lit simple
-WC, Douche, Frigo
+2 lits simples
+WC, Douche, Evier + plaque, Frigo
 DE 346 À 360,5 €
 FRANCIS DE CROISSET
 8, rue Francis de Croisset 75018 PARIS
@@ -69,6 +62,13 @@ de 44 à 46 m²
 Colocation
 2 lits simples
 Pièce à vivre, WC, Douche, Evier + plaque, Frigo, Duplex
+258,29 €
+Evry-Flora TRISTAN
+1 rue Jules Vales 91000 EVRY
+de 8,14 à 11,4 m²
+Individuel
+1 lit simple
+WC, Douche, Frigo
 Première page
 Page précédente
 OK
