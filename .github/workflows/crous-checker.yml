@@ -2,7 +2,7 @@ name: CROUS Checker
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: ""
   workflow_dispatch:
 
 jobs:
